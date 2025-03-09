@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Arik Trotnic
+N;CHARSET=UTF-8:Trotnic;;Arik;;
+NICKNAME;CHARSET=UTF-8:Arik
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:NTrotnic@gmail.com
+TEL;TYPE=CELL:5734655785
+X-SOCIALPROFILE;TYPE=Discord:https://discordapp.com/users/258021308821012480
+X-SOCIALPROFILE;TYPE=Signal:https://signal.me/#eu/D-V_AGxtSW1ZWSdV9lHOnBdb0Q7yG56PtKbkNmP98u-IY0LgT2ZJN5Z6XMEKByhy
+X-SOCIALPROFILE;TYPE=Snapchat:https://snapchat.com/add/atrotnic2?share_id=yrz2BUku3I8&locale=en-US
+END:VCARD
